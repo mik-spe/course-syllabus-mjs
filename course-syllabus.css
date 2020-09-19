@@ -1,0 +1,30 @@
+h1
+{
+    text-align: right;
+}
+
+table.schedule, table.schedule th, table.schedule td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table.schedule th, table.schedule td
+{
+    padding: 5px;
+}
+
+table.grades th
+{
+    background-color: lightgray;
+}
+
+table.grades th, table.grades td
+{
+    padding: 5px;
+}
+
+table.letterGrades, table.letterGrades td
+{
+    padding: 5px;
+}
